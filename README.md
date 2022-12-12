@@ -13,6 +13,7 @@ The technologies used were:
 - Axios
 - ejs
 - dotenv
+- nodemon
 
 Note: In order to test this project, you will need your own developer api key from the cat api website, and create a .env file to hold this key. For security reasons this api key is not pushed to github.
 
