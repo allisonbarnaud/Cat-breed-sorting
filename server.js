@@ -42,7 +42,6 @@ const sortCatBreedsByScore = () => {
   })
 }
 
-// getCatBreeds()
 sortCatBreedsByScore()
 
 app.listen(port, () => {
